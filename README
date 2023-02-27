@@ -1,0 +1,11 @@
+PLC EATON
+MAIN LANGUAGE: SFC
+
+PROJECT SIMULATES AN ELEVATOR
+Features
+ - choosing floors
+ - stopping on floors
+ - visualization
+ - simulating acceleration and deceleration
+ - reset button
+ - exceeded weight alarm
